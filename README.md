@@ -48,16 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="45%" />
-
-</div>
-
----
 
 ## 💬 Ask Me About
 
@@ -71,8 +61,8 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (ضيفي اللينك هنا)
-- 📧 Email: (ضيفي ايميلك هنا)
+- 💼 LinkedIn: https://www.linkedin.com/in/salma-tarek-882a28330/
+- 📧 Email: salma182t@gmail.com
 
 ---
 
