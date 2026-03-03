@@ -84,7 +84,6 @@ I focus on:
 <img src="https://streak-stats.demolab.com?user=salma13ta&theme=tokyonight&hide_border=true" width="60%" />
 
 </p>
----
 
 ## 💡 What I Bring
 
