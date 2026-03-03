@@ -64,25 +64,8 @@ I focus on:
 - Micro-interactions
 - Smooth Page Transitions (Next.js)
 
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=black)
 
 ---
-
-## 💡 What I Bring
-
-✔ Pixel-perfect UI implementation  
-✔ Clean and scalable project structure  
-✔ Strong understanding of React lifecycle & hooks  
-✔ State management with Redux  
-✔ API integration & dynamic data rendering  
-✔ Responsive design across all devices  
-
----
-رؤ---
 
 # 🧰 Tech Toolbox
 
@@ -108,6 +91,16 @@ I focus on:
 <img src="https://streak-stats.demolab.com?user=salma13ta&theme=tokyonight&hide_border=true" width="60%" />
 
 </p>
+---
+
+## 💡 What I Bring
+
+✔ Pixel-perfect UI implementation  
+✔ Clean and scalable project structure  
+✔ Strong understanding of React lifecycle & hooks  
+✔ State management with Redux  
+✔ API integration & dynamic data rendering  
+✔ Responsive design across all devices  
 
 ---
 ## 📫 Connect With Me
