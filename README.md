@@ -82,7 +82,34 @@ I focus on:
 ✔ Responsive design across all devices  
 
 ---
+رؤ---
 
+# 🧰 Tech Toolbox
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,tailwind,bootstrap,sass,git,github,vscode,figma" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=salma13ta&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salma13ta&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=salma13ta&theme=tokyonight&hide_border=true" width="60%" />
+
+</p>
+
+---
 ## 📫 Connect With Me
 
 💼 LinkedIn:  
