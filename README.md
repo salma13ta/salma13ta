@@ -7,7 +7,6 @@
   
 </div>
 
----
 <p align="center">
 Building modern, scalable & high-performance web applications.
 </p>
