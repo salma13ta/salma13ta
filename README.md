@@ -7,7 +7,7 @@ Building modern, scalable & high-performance web applications.
 </p>
 
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXc0MjEzcTdqbG5kdTVibHZpcmpzNjRrZ2dkdmxvNDl0NHNuZW5kNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="40%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXc0MjEzcTdqbG5kdTVibHZpcmpzNjRrZ2dkdmxvNDl0NHNuZW5kNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRraWtwem1pdGxpeXJrM245am4zdmV3eWdkZHc4ZXFmMjZxOXl0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9RnJWRWoiRZlHgaHa/giphy.gif" width="40%" />
   
 </div>
 
